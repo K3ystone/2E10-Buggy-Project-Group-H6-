@@ -4,6 +4,11 @@
 
 -Add any handy websites or software links here
 
+SUBVERSION/SVN:		http://tortoisesvn.net/downloads.html
+			- Download link for SVN
+			https://github.com/K3ystone/2E10-Buggy-Project-Group-H6-
+			-Subversion checkout link to Github
+
 GIT HUB: 		https://github.com/K3ystone/2E10-Buggy-Project-Group-H6-
 			-Project repository online.
 		
