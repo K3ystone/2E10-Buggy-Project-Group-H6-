@@ -20,6 +20,8 @@ ARDUINO:		http://arduino.cc/
 EMULATOR FOR SERIAL PORTS:	http://sourceforge.net/projects/com0com/
 				-Creates emulated or "fake" COM ports (ie. computer thinks its connected to xbee letting us test code without one)
 				-This youtube tutorial shows some of the emulator set up	https://www.youtube.com/watch?v=8Rp_nPApHbU
+				-The most recent version of this has issues runing on windows 8/8.1 to solve this you need to install an older version 
+				-http://sourceforge.net/projects/com0com/files/com0com/2.2.2.0/ This will link you to version 2.2.2.0 (download and install the top free sign zip folder)
 
 C# DATABASE:	[Serial Port Class] - https://msdn.microsoft.com/en-us/library/system.io.ports.serialport(v=vs.110).aspx	
 		[SerialPort.DataReceived Event] - https://msdn.microsoft.com/en-us/library/system.io.ports.serialport.datareceived(v=vs.110).aspx
