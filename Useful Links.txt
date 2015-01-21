@@ -1,0 +1,28 @@
+##############################
+#######USEFULL LINKS##########
+##############################
+
+-Add any handy websites or software links here
+
+GIT HUB: 		https://github.com/K3ystone/2E10-Buggy-Project-Group-H6-
+			-Project repository online.
+		
+			https://windows.github.com/
+			-Installer client for windows
+			-use this if you want git to work like SVN (sort of...) and have it linked to a folder on your computer
+
+ARDUINO:		http://arduino.cc/
+			-Main Arduino website
+			http://arduino.cc/en/Reference/HomePage
+			-Reference page
+
+
+EMULATOR FOR SERIAL PORTS:	http://sourceforge.net/projects/com0com/
+				-Creates emulated or "fake" COM ports (ie. computer thinks its connected to xbee letting us test code without one)
+				-This youtube tutorial shows some of the emulator set up	https://www.youtube.com/watch?v=8Rp_nPApHbU
+
+C# DATABASE:	[Serial Port Class] - https://msdn.microsoft.com/en-us/library/system.io.ports.serialport(v=vs.110).aspx	
+		[SerialPort.DataReceived Event] - https://msdn.microsoft.com/en-us/library/system.io.ports.serialport.datareceived(v=vs.110).aspx
+
+
+MORE INFO:	Stuff on event handlers - http://stackoverflow.com/questions/803242/understanding-events-and-event-handlers-in-c-sharp
