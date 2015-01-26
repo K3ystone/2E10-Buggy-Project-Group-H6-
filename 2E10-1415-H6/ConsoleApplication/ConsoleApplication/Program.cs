@@ -20,8 +20,15 @@ namespace ConsoleApplication
           
 
             _serialPort.PortName = "COM6";
-            _serialPort.Open();
+           
 
+            _serialPort.BaudRate = 9600;
+            _serialPort.Open();
+            _serialPort.Write("+++");
+            System.Threading.Thread.Sleep(1100); // Guard Time 
+            _serialPort.WriteLine("ATID 3332, CH C, CN"); 
+
+            
 
             _serialPort.DataReceived += new SerialDataReceivedEventHandler(DataReceivedHandler);
             
